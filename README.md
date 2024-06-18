@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ManishNaik
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Mumbai University
+- 🌱 I’m currently learning in Mumbai University
 - 💞️ I love to share my new projects on github
 - 📫 Reach me on LinkedIn
 - 😄 Pronouns:He/Him
